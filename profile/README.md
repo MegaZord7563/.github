@@ -13,51 +13,58 @@
 </div>
 
 ---
+
+<div align="center">
+
+<br />
+
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2026.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Winner 2026"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2026.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Winner 2026"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-impact-2026.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Impact 2026"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2025.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Winner 2025"
 />
+&nbsp;&nbsp;
+
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2025.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Winner 2025"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2023.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Winner 2023"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-impact-2023.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Impact 2023"
 />
+&nbsp;&nbsp;
 <img
   src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-woodieflowers-2022.svg"
-  width="120"
-  alt="MegaZord #7563 — Be the difference. Be MegaZord."
-  valign="middle"
+  width="160"
+  alt="Blue Banner Woodie Flowers 2022"
 />
+
+</div>
