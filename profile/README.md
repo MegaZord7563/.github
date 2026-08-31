@@ -13,3 +13,51 @@
 </div>
 
 ---
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2026.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2026.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-impact-2026.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2025.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2025.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-winner-2023.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-impact-2023.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+<img
+  src="https://raw.githubusercontent.com/MegaZord7563/.github/refs/heads/main/blue-banner-woodieflowers-2022.svg"
+  width="120"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
