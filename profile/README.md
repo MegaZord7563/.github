@@ -1,12 +1,15 @@
-## Hi there 👋
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<img src="https://megazord7563.com.br/wp-content/uploads/2025/09/cropped-favicon-1.png" alt="MegaZord" width="200" />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=150&width=700&section=header&text=MEGAZORD%20%237563&fontSize=58&fontColor=13315C&fontAlignY=40&desc=Be%20the%20difference.%20Be%20MegaZord.&descAlignY=67&descSize=19&descColor=1B3B6F&animation=fadeIn"
+  width="850"
+  alt="MegaZord #7563 — Be the difference. Be MegaZord."
+  valign="middle"
+/>
+</div>
+
+---
